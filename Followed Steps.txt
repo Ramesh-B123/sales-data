@@ -1,0 +1,7 @@
+cd "C:/Portfolio/DE/Sales Analysis"
+git init
+git add "Followed Steps.txt"
+git commit -m "Added Followed Steps documentation"
+git branch -M main
+git remote add origin https://github.com/Ramesh-B123/sales-data.git
+git push -u origin main
